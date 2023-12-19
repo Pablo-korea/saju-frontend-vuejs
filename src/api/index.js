@@ -10,5 +10,6 @@ export default process.env.NODE_ENV == "production"
     })
   : axios.create({
       //development 환경
-      baseURL: "http://localhost:3000",
+      //baseURL: "http://localhost:3000",
+      baseURL: "ec2-43-201-36-211.ap-northeast-2.compute.amazonaws.com:3000",
     });

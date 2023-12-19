@@ -3,7 +3,7 @@
     <v-card>
       <v-app-bar app color="#fff59d">
         <v-icon color="black">mdi-yin-yang</v-icon>
-        <strong class="logo">SajuPick</strong>
+        <strong class="logo">Saju Story By Pablo</strong>
 
         <v-spacer></v-spacer>
 
